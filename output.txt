@@ -1,8 +1,7 @@
 YES
-UU
-UU
+NO
 YES
-UUU
-UUD
-RLL
+YES
+NO
+YES
 NO
